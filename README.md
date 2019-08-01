@@ -8,4 +8,4 @@
 
 python augmentation.py
 
-#### 4. Then the augmented image and label will be saved in the out_images, out_labels
+#### 4. Then the augmented image and label will be saved in the ./out_images/, ./out_labels/
